@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="container flex flex-wrap justify-between items-center mx-auto">
           <a href="/" className="flex items-center ">
             <img src="/images/logo.png" className="mr-3 h-6 sm:h-9 animate-spin-slow" alt="My Logo" />
-            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Nextcercise</span>
+            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Exercise</span>
           </a>
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="flex flex-col p-4 mt-4 bg-[#be3829] rounded-lg border 
